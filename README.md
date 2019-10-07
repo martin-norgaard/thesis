@@ -1,5 +1,5 @@
-# Bachelor Thesis
-> By Jens Brink and Martin Nørgaard Petersen
+# Undergraduate Thesis
+> Department of Economics, University of Copenhagen
 
 The repository contains data and iPython-files for replication of Farhi and Gourio (2018) on data for the United Kingdom. Farhi and Gourio's paper <a href="https://www.brookings.edu/bpea-articles/accounting-for-macro-finance-trends-market-power-intangibles-and-risk-premia/">may be downloaded here.</a>
 
@@ -14,4 +14,4 @@ Farhi and Gourio's data for the US and MATLAB-replication files are available on
 **Supervisor:** <a href="https://sites.google.com/view/jeppe-druedahl/">Jeppe Druedahl,</a> Assistant Professor at University of Copenhagen
 
 ## License
-Results may not be adopted prior to publication of final paper.
+Results should not be adopted prior to publication of final paper.
