@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martin-norgaard/thesis/master/)
+
 # Undergraduate Thesis
 > Department of Economics, University of Copenhagen
 
