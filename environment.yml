@@ -13,5 +13,7 @@ dependencies:
       - jupyterlab-git
       - jupyterlab_github
       - jupyterlab-solutions
-      - numecon
       - yapf
+      - pandas
+      - tabulate
+      - matplotlib
